@@ -1,0 +1,11 @@
+input#task {
+  width: 285px;
+}
+
+input#details {
+  width: 285px;
+}
+
+.container {
+  margin-left: 25px
+}
